@@ -6,7 +6,7 @@
         "spankbang.com","tnaflix.com","porntrex.com","hqporner.com","beeg.com","sex.com",
         "tube8.com","thumbzilla.com","porn.com","nuvid.com","brazzers.com","bangbros.com",
         "realitykings.com","fakehub.com","eporner.com","hentaicity.com","hentaimama.io",
-        "watchhentai.net"
+        "watchhentai.net", "theporndude.com", "xhamster.desi", "xnxx2.com",
     ];
 
     function isBlockedSite(host) {
