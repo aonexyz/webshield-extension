@@ -37,8 +37,9 @@ Developed by **Anik- A 1**.
 
 ## Privacy
 
-Webshield runs entirely on your device. No data is collected or transmitted.## Author
+Webshield runs entirely on your device. No data is collected or transmitted.
 
+## Author
 - **A 1** – [GitHub: aonexyz](https://github.com/aonexyz)
 
 ---
