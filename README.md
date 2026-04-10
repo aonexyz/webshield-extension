@@ -2,8 +2,6 @@
 
 **Webshield** is a unified Chrome extension designed to eliminate distractions on Facebook and YouTube. It provides global controls to block short-form videos, home feeds, and notification badges, helping you stay focused and productive.
 
-Developed by **Anik- A 1**.
-
 ## Features
 
 ### Global Focus Control
