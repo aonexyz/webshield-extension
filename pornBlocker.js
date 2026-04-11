@@ -30,7 +30,7 @@
                 text-align:center;
             ">
                 <div>
-                    <h1>🚫 Blocked by webshield</h1>
+                    <h1>Blocked by webshield</h1>
                     <p><span class="highlight">This site is blocked for your focus</span></p>
                 </div>
             </body>
