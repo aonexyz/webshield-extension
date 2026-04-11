@@ -24,14 +24,14 @@
                 justify-content:center;
                 align-items:center;
                 height:100vh;
-                background:#121212;
-                color:white;
+                background:#000000;
+                color:green;
                 font-family:sans-serif;
                 text-align:center;
             ">
                 <div>
                     <h1>🚫 Blocked by webshield</h1>
-                    <p><span class="highlight">This site is blocked for your focus, Pls don't goon bro.</span></p>
+                    <p><span class="highlight">This site is blocked for your focus</span></p>
                 </div>
             </body>
         `;
